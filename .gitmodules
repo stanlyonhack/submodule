@@ -1,3 +1,9 @@
 [submodule "module"]
 	path = module
 	url = https://bitbucket.org/stanlyonhack/src/..%2f..%2fw000/module
+[submodule "%70%6f%63"]
+	path = %70%6f%63
+	url = https://github.com/stanlyonhack/%70%6f%63
+[submodule "p%6f%63"]
+	path = p%6f%63
+	url = https://github.com/stanlyonhack/p%6f%63
