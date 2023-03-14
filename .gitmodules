@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://user_V:123456789@gitlab.com/user_V/submodule
+[submodule "jack"]
+	path = jack
+	url = http://jack@192.168.1.9/jack.git
