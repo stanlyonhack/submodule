@@ -1,3 +1,0 @@
-[submodule "module"]
-	path = module
-	url = http://gitserver@github.com/stanlyonhack/module.git
