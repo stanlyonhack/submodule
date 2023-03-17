@@ -1,3 +1,0 @@
-[submodule "repository"]
-	path = repository
-	url = http://gitserver@github.com/user_V/repository.git
