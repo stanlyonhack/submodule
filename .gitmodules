@@ -1,4 +1,4 @@
-GIT CLONE SUBMODULES
+#GIT CLONE SUBMODULES
 
 [submodule "module"]
 	path = module
