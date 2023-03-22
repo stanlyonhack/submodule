@@ -1,0 +1,4 @@
+[submodule "module"]
+	path = module
+	url = https://github.com/stanlyonhack/submodule.git
+	branch = stable
